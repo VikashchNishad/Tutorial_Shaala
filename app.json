@@ -1,0 +1,8 @@
+{
+  "name": "TutorialShaala",
+  "description": "Tutorial website",
+  "repository": "git+https://github.com/VikashchNishad/Tutorial_Shaala.git",
+  "logo": "http://tutorialshaala.herokuapp.com/node.svg",
+  "keywords": ["devops", "linux", "chef"],
+  "image": "tutorialshaala/nodejs"
+}
